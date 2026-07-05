@@ -1,6 +1,6 @@
->[!warning] Deprecated
-> Bitwarden now has a [native ssh agent implementation](https://bitwarden.com/help/ssh-agent/).
-> There's no reason to use this tool anymore.
+>[!WARNING]
+> **Deprecated**: Bitwarden now has a [native ssh agent implementation](https://bitwarden.com/help/ssh-agent/).
+> There's no reason to use this tool anymore. **You should not use it.**
 
 # Bitwarden SSH Agent
 
