@@ -1,3 +1,7 @@
+>[!warning] Deprecated
+> Bitwarden now has a [native ssh agent implementation](https://bitwarden.com/help/ssh-agent/).
+> There's no reason to use this tool anymore.
+
 # Bitwarden SSH Agent
 
 ## Requirements
